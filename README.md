@@ -13,7 +13,7 @@ Too busy for daily gardening? Sometimes, when we are away from home for a few da
 ---
 
 ### **OVERVIEW**
-The **Smart Pot** is an intelligent plant care system designed to **automate watering** based on real-time environmental conditions. This system utilizes an **ESP microcontroller** to monitor, process, and control all components efficiently.
+The **Auto sprout** is an intelligent plant care system designed to **automate watering** based on real-time environmental conditions. This system utilizes an **ESP microcontroller** to monitor, process, and control all components efficiently.
 
 ### **Key Components & Functionality**
 
