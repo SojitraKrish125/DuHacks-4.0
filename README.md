@@ -1,6 +1,6 @@
 # **TECH TINKERS**
 
-## **AUTO SPROUTS**
+## **AUTO SPROUT**
 
 ### **DESCRIPTION**
 Too busy for daily gardening? Sometimes, when we are away from home for a few days or caught up with other tasks, we may forget to water our favorite plants. In such situations, keeping our plants healthy becomes challenging. So we found a solution! Check out our **self-watering plant pots** to keep greenery around the house effortlessly.
