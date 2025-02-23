@@ -22,7 +22,7 @@ The **Smart Pot** is an intelligent plant care system designed to **automate wat
 - **DHT11 Sensor:** Measures **temperature and humidity**, providing essential environmental data for plant care.
 
 #### **2️⃣ Data Transmission & Mobile Monitoring**
-- The system uses an **ESP microcontroller** (ESP8266) to read sensor values and transmit them to the **Blynk cloud server** over **Wi-Fi**.
+- The system uses an **NodeMCU** (ESP8266) to read sensor values and transmit them to the **Blynk cloud server** over **Wi-Fi**.
 - Users can **remotely monitor** soil moisture, water levels, temperature, and humidity through a **mobile application**.
 
 #### **3️⃣ Automatic & Manual Watering**
